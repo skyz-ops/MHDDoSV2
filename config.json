@@ -7,7 +7,9 @@
 
 		{"type":5, "url": "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/refs/heads/master/socks5.txt",  "timeout": 5},
 
-		{"type":1, "url": "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt",  "timeout": 5}
+		{"type":1, "url": "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt",  "timeout": 5},
+	  
+		{"type":2, "url": "https://raw.githubusercontent.com/skyz-ops/MHDDoSV2/master/proxy.txt",  "timeout": 5},
 		
 	]
 }
